@@ -1,2 +1,2 @@
 # drawHeart
-draw ❤ with python
+draw ❤ by python
